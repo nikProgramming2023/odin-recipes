@@ -1,0 +1,48 @@
+header {
+  text-align: center;
+}
+
+main {
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  float: left;
+  padding: 20px;
+}
+
+.description {
+  max-width: fit-content;
+  max-height: fit-content;
+  margin: 12px;
+  padding: 12px;
+}
+
+.description h3 {
+  text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.instruction li {
+  max-width: fit-content;
+  max-height: fit-content;
+  padding: 11px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(16, 28, 82);
+}
+
